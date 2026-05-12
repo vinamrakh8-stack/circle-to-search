@@ -24,6 +24,6 @@ time to time changes or update comes in this app so we need some suggestion or n
 so support us and enjoy this code in daily life uses if be need.
 
 
-created by - vinamrakh8-stack (on github).
-website - https://github.com/vinamrakh8-stack
+created by - vinamrakh8-stack (on github).                                 
+website - https://github.com/vinamrakh8-stack                              
 python - https://www.python.org/downloads/
