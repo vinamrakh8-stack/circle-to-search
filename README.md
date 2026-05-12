@@ -8,10 +8,14 @@ you must be install python or some library files.
 
 you must run this command in cmd /command prompt.
 
-1 ==> pip install numpy mss pyautogui opencv-python pillow pywin32 PyQt5
+1 ==> pip install numpy mss pyautogui pillow pywin32 PyQt5
                                                          --(this is first command you n in cmd).                                                 
-2 ==> python -m pip install numpy mss pyautogui opencv-python pillow pywin32 PyQt5       
-                                                         --(if any problem in first command line).                                                
+2 ==> py -m pip install numpy mss pyautogui pillow pywin32 PyQt5      
+                                                         --(if any problem in first command line). 
+2.1 ==> python -m pip install numpy mss pyautogui pillow pywin32 PyQt5
+                                                         --(use only if 1 or 2 is not work).
+2.2 ==> pip install --user numpy mss pyautogui pillow pywin32 PyQt5
+                                                         --(use where 1,2 or 2.1 is not work).
 3 ==> python -c "import numpy, mss, pyautogui, cv2, PIL, win32clipboard, PyQt5; print('OK')" 
                                                          --(this command for verified this library install or not).                           
 4 ==> pip install --user numpy mss pyautogui opencv-python pillow pywin32 PyQt5
