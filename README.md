@@ -9,13 +9,12 @@ you must be install python or some library files.
 you must run this command in cmd /command prompt.
 
 1 ==> pip install numpy mss pyautogui opencv-python pillow pywin32 PyQt5
-                                                         --(this is first command you run in cmd).                                                      
-2 ==> python -m pip install numpy mss pyautogui opencv-python pillow pywin32 PyQt5       
-                                                         --(if any problem in first command line).                                                        
+                                                         --(this is first command you n in cmd).                                                 2 ==> python -m pip install numpy mss pyautogui opencv-python pillow pywin32 PyQt5       
+                                                         --(if any problem in first command line).                                                
 3 ==> python -c "import numpy, mss, pyautogui, cv2, PIL, win32clipboard, PyQt5; print('OK')" 
-                                                         --(this command for verified this library install or not).
+                                                         --(this command for verified this library install or not).                           
 4 ==> pip install --user numpy mss pyautogui opencv-python pillow pywin32 PyQt5
-                                                         --(at last if you get any administrator error then use this).
+                                                         --(at last if you get any administrator error then use this).                  
 
 --------------some times it gives some glitch / problems---->
 if not past on directly on google website then you must past on image past section (press ctrl+v).
